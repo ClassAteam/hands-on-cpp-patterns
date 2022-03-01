@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/petr/repo/Hands-On-Design-Patterns-with-CPP/Chapter04/list_swap.C
+list
+-
+utility
+-
+iostream
+-
+

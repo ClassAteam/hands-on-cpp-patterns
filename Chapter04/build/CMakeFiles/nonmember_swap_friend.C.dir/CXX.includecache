@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/petr/repo/Hands-On-Design-Patterns-with-CPP/Chapter04/nonmember_swap_friend.C
+utility
+-
+iostream
+-
+

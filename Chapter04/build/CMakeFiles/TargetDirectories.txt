@@ -1,0 +1,4 @@
+/home/petr/repo/Hands-On-Design-Patterns-with-CPP/Chapter04/build/CMakeFiles/rebuild_cache.dir
+/home/petr/repo/Hands-On-Design-Patterns-with-CPP/Chapter04/build/CMakeFiles/edit_cache.dir
+/home/petr/repo/Hands-On-Design-Patterns-with-CPP/Chapter04/build/CMakeFiles/nonmember_swap_friend.C.dir
+/home/petr/repo/Hands-On-Design-Patterns-with-CPP/Chapter04/build/CMakeFiles/list-swap.dir
